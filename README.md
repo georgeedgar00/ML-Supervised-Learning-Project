@@ -14,3 +14,11 @@ The project will involve the following tasks:
 -	Supervised learning: We will use the Diabetes dataset to build a machine learning model that can predict whether a patient has diabetes or not, using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. We will select at least two models, including one ensemble model, and compare their performance.
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
+
+### Conclusion:
+From the machine learning models developed and the exploratory data analysis (EDA) conducted, generate four bullet points as your findings.
+
+RandomForestClassifier has the highest accuracy score of 78%.
+BMI: Higher BMI is leads increased of diabetes.
+Glucose: Higher average glucose levels lead to higher risk of diabetes.
+Age and Diabetes: Lower age group shows lower occurrence
